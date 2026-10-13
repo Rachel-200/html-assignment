@@ -5,4 +5,11 @@ body {
 header, footer {
     background-color: #f2f2f2;
     padding: 10px;
+}}
+
+.site-title {
+    color: #2c3e50;
+}
+#my-image {
+    box-shadow: 0 0 2px 1px black;
 }
